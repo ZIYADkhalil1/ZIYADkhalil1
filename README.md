@@ -56,11 +56,6 @@
 
 <p align="left">o Address and resolve technical issues raised by users, develop new features and maintain existing software<br>modules using Java spring boot, PHP.<br>o Collaborate with other teams to analyse and implement software solutions that meet<br>business requirements.<br>o Eliminated ~25% of tickets by building automation tools.<br>o Optimizing system modules such as locking orders, to be locked in 15s to only around 1s by refactoring this entire functionality to be done using java spring boot rather than JS and PHP.</p>
 
-###
-
-<div align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
 
 ###
 
